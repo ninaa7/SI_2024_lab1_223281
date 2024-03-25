@@ -1,0 +1,35 @@
+commit 8be377c5ddf38467222a7fc9a71cd89a3da50ff2
+Author: ninaa7 <139135586+ninaa7@users.noreply.github.com>
+Date:   Mon Mar 25 19:51:44 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 263ce3f99b3dca8b78290d968a0175bb1313f01f
+Author: ninaa7 <139135586+ninaa7@users.noreply.github.com>
+Date:   Mon Mar 25 19:43:17 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 525a240d8b1f30fef37ed6d895fc424f16c2ad88
+Author: ninaa7 <139135586+ninaa7@users.noreply.github.com>
+Date:   Mon Mar 25 19:47:19 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 131efe06f3cb1c032bb001bd2c90588b42a4ea85
+Author: ninaa7 <139135586+ninaa7@users.noreply.github.com>
+Date:   Mon Mar 25 19:38:38 2024 +0100
+
+    Fix wrong condition in filterOddLenghtStrings
+
+commit b980ab7193e7e279f4ff439229a03ffb09dddf1c
+Author: ninaa7 <139135586+ninaa7@users.noreply.github.com>
+Date:   Mon Mar 25 19:26:06 2024 +0100
+
+    Add starter code
+
+commit b36bfdc607af1dd1a4f7c5561df3f98f23b7083a
+Author: ninaa7 <139135586+ninaa7@users.noreply.github.com>
+Date:   Mon Mar 25 19:13:20 2024 +0100
+
+    Initial commit
